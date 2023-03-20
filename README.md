@@ -1,8 +1,11 @@
-#TECNOLOGIA WEB-500
+# ejemplo
+Sirve para hacer la prueba en el readme
+
+# TECNOLOGIA WEB-500
 Quinto Semestre
-#Docente:
+# Docente:
 Erik Huallpa Aruquipa
-##Estudiante:
+## Estudiante:
 *Nombre estudiante
 ## Gestion:
 I-2023
